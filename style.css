@@ -4,4 +4,3 @@ body {border-width: 5px; border-style: dotted; border-color: #FFFFFF}
 .bird-left {width: 250px; position: absolute; top: 200px; left: 25px;}
 textarea {width: 500px; position: absolute; bottom: 50px; left: 100px; background-color: #FF000;
 border-width: 15px; border-style: solid; border-color: #FF0000; font-family: "times new roman"}
-
